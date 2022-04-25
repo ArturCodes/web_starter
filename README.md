@@ -1,1 +1,4 @@
-Boilerplate for future websites
+Nikols website
+
+Inspiration
+https://www.scottreidcpa.com/index.htm

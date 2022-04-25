@@ -9,4 +9,14 @@
 
 body {
     background-color: rgb(1, 8, 17);
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+#root {
+    height: 100vh;
+}
+
+.app {
+    height: 100vh;
 }
